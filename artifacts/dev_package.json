@@ -14,7 +14,20 @@
 	"oeVersion": null,
 	"excludeTemplateFiles": true,
 	"roles": [],
-	"apps": [],
+	"apps": [
+		{
+			"id": "c26e2274-842e-43c9-a6d6-6314f41b5e64",
+			"application": "test_1",
+			"title": "Floorplan",
+			"description": "Fiori Worklist"
+		},
+		{
+			"id": "3828718e-7d25-4491-a9d0-e051d4ed2ef8",
+			"application": "test_2",
+			"title": "Floorplan",
+			"description": "Fiori Worklist"
+		}
+	],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
